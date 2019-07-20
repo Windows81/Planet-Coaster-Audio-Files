@@ -14,3 +14,4 @@ Each audio package from which the `.ogg` files were extracted from is named is g
 
 **`audio_music_bnk_s` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_music_bnk_s.aux`
 **`audio_coasters_bnk_b` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_coasters_bnk_b.aux`
+**`elixir_media_elixir_media_bnk_b` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content2\Audio\Flatrides\Elixir\RuntimeLoadedUnloaded\Win64\elixir_media_elixir_media_bnk_b`
