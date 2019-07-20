@@ -10,5 +10,4 @@ This repository is supposed to host audio files (in `.ogg`) extracted from Plane
 ## File Tag Names
 Each audio package from which the `.ogg` files were extracted from is named is given an `.aux` extension, but is structured as a `.bnk` file.  Below is a list of each of each of the `.aux` archives, and their corresponding locations on the Windows build of the game:
 
-### audio_music_bnk_s
-`C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_music_bnk_s.aux`
+`audio_music_bnk_s` **:** `C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_music_bnk_s.aux`
