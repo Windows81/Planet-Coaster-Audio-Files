@@ -12,6 +12,6 @@ To interact with these files, you can either:
 ## File Tag Names
 Each audio package from which the `.ogg` files were extracted from is named is given an `.aux` extension, but is structured as a `.bnk` file.  Below is a list of each of each of the `.aux` archives, and their corresponding locations on the Windows build of the game:
 
-**`audio_crowd_bnk_b` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_crowd_bnk_b.aux`
+**~`audio_music_bnk_s`~ `audio_music_bnk_s` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_crowd_bnk_b.aux`
 **`audio_coasters_bnk_b` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content0\audio_coasters_bnk_b.aux`
 **`elixir_media_elixir_media_bnk_b` :** `C:\Program Files\Planet Coaster\Win64\ovldata\Content2\Audio\Flatrides\Elixir\RuntimeLoadedUnloaded\Win64\elixir_media_elixir_media_bnk_b`
