@@ -1,5 +1,5 @@
 # Planet Coaster Audio Files
-This repository is supposed to host audio files (in `.ogg`) extracted from Planet Coaster.  Note that not all audio files are yet extracted.
+This repository hosts **some** audio files (in `.ogg`) extracted from Planet Coaster.  Note that not all audio is yet extracted.
 
 To interact with these files, you can either:
 1. Navigate to the page of the audio clip(s) you want to download, access the raw data, and **hit Ctrl+S to save the file**; it wouldn't work otherwise.
